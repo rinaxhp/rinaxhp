@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente trabalho como Auxiliar Admin istrativo
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas
+- 🌱 Graduando - Análise e Desenvolvimento de Sistemas
+- 💻 Estudando Front-end
 - 😄 Pronouns: ela/dela
 -->
 
