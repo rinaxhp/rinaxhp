@@ -1,10 +1,9 @@
 ### Olá! Eu sou a Karina 👋
 
 
-- 🔭 Atualmente trabalho como Auxiliar Admin istrativo
-- 🌱 Graduando - Análise e Desenvolvimento de Sistemas
-- 💻 Estudando Front-end
-- 😄 Pronouns: ela/dela
+- 💼 Atualmente trabalho como Auxiliar Administrativo
+- 🎓 Graduando - Análise e Desenvolvimento de Sistemas
+- 💻 Estudando Front-end na Alura 
 -->
 
 ##
