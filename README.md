@@ -10,9 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/rinaxhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinaxhp&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rinaxhp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
     </div>
+    
    
   ##
   
@@ -41,3 +42,10 @@
   ![Snake animation](https://github.com/rinaxhp/rinaxhp/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div>
+  <img align="right" alt="Rina-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
+  <img align="right" alt="Rina-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
+  <img align="right" alt="Rina-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/2b/26/6f/2b266ff808919cfbc92e15611b24c29b.gif">
+  <img align="right" alt="Rina-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/2b/26/6f/2b266ff808919cfbc92e15611b24c29b.gif">
+ </div>
