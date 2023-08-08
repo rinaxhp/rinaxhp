@@ -7,7 +7,7 @@
 
 - 💼 Atualmente trabalho como Auxiliar Administrativo
 - 🎓 Graduando - Análise e Desenvolvimento de Sistemas
-- 💻 Estudando Front-end na Alura 
+
 -->
 
 ##
