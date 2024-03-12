@@ -5,7 +5,7 @@
 ### Olá! Eu sou a Karina 👋
 
 
-- 💼 Atualmente trabalho como Auxiliar Administrativo
+
 - 🎓 Graduando - Análise e Desenvolvimento de Sistemas
 
 -->
