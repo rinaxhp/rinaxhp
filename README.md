@@ -6,8 +6,7 @@
 
 
 
-- 🎓 Graduando - Análise e Desenvolvimento de Sistemas
-
+- 🎓 Graduando - Ciências da Computação
 -->
 
 ##
