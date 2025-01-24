@@ -8,6 +8,7 @@
 
 - 🎓 Graduando - Ciências da Computação
 -->
+  Ainda em construção!
 
 ##
 
