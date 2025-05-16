@@ -6,9 +6,9 @@
 
 
 
-- 🎓 Graduando - Ciências da Computação
+- 🎓 Graduando - Analise e Desenvolvimento de Sistemas
 -->
-  Ainda em construção!
+  
 
 ##
 
