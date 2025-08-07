@@ -78,14 +78,6 @@ Me chamo Karina Cristina Proença, tenho 25 anos e sou natural de Mato Grosso. E
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Servidor de banco de dados" 
-    title="Servidor de banco de dados"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=yzlNpHU1FNTq&format=png&color=000000" 
-    />
 </BR>
 
   ## Outras redes sociais que você pode me encontrar:
