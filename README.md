@@ -84,7 +84,7 @@ Me chamo Karina Cristina Proença, tenho 25 anos e sou natural de Mato Grosso. E
   
 <div> 
   <a href = "mailto:karina.kirisitina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/karina-cristina-proença-b08640224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/karina-proen%C3%A7a-b08640224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </a>
 </div>
 
