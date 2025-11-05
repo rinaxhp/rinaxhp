@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 Karina Proenca
 
-**Tecnico em suporte TI (junior)**
+**Tecnico de TI (junior)**
 
 Me chamo Karina Cristina Proença, tenho 25 anos e sou natural de Mato Grosso. Estou cursando Engenharia de Software na Wyden. 
    
