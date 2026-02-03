@@ -48,14 +48,6 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 /> 
 
-<img
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
 
 <img 
     align="left" 
@@ -66,13 +58,7 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" 
     />
           
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+
 />
 <img 
     align="left" 
@@ -82,14 +68,7 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 </BR>
 
