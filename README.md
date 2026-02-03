@@ -1,7 +1,5 @@
 
-# 👩🏻‍💻 Karina Proenca
-
-**Tecnico de TI (junior)**
+# Tecnico de TI (junior)
 
 Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Software na Wyden. 
    
@@ -41,11 +39,11 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="MySql" 
+    title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />" 
 /> 
 
 
@@ -59,8 +57,7 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     />
           
 
-/>
-<img 
+  <img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -68,6 +65,18 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+   <img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
+    
+/>
+
+          
 
 
 </BR>
