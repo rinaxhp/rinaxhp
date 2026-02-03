@@ -64,7 +64,7 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     alt="Linux" 
     title="Linux"
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
     />
     
@@ -74,7 +74,7 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     title="Windows"
     width="30px" 
     style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+    src="https://icons8.com/icon/M8ngjhax4yDv/windows-11"/>
            
           
 
