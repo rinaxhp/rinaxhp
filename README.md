@@ -3,9 +3,12 @@
 
 **Tecnico de TI (junior)**
 
-Me chamo Karina Cristina Proença, tenho 25 anos e sou natural de Mato Grosso. Estou cursando Engenharia de Software na Wyden. 
+Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Software na Wyden. 
    
   ##
+
+  ![Uploading 415311849-df2eb32b-d28e-4bc1-abf5-0c99cdbb437a.gif…]()
+
   
 
 ### 🤖 Linguagens e Tecnologias
