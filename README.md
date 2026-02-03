@@ -68,12 +68,12 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
     />
     
-  <img 
+   <img 
     align="left" 
     alt="Windows" 
     title="Windows"
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
            
           
