@@ -9,7 +9,7 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
 
   
 
-### 🤖 Linguagen, Ferramentas e Sistema Operacional
+### 🤖 Linguagem, Ferramentas e Sistema Operacional
 <div style="disokay: inline_block"><br>
  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d979d94e-da35-4195-82bd-581a29d9a5db" />
  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2e2350ba-36a2-48ec-949e-521c695280b9" />
