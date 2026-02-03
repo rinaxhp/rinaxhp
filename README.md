@@ -34,48 +34,47 @@ Me chamo Karina, sou natural de Mato Grosso. Estou cursando Engenharia de Softwa
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
+/>   
 <img 
     align="left" 
     alt="MySql" 
     title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />" 
-/> 
-
-
-<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"
+/>
+      <img 
     align="left" 
     alt="MySql" 
     title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" 
-    />
-          
-
-  <img 
+     />
+          <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-   <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+   />  
+     <img 
     align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
-    
-/>
-
+    />
+  <img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
+    />
           
 
 
