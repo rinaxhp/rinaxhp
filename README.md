@@ -1,8 +1,32 @@
 
-# IT Technician | Software Engineering Student | Aspiring Full Stack Developer                                                                                           
+
+# Olá, visitante! 👋 Seja muito bem-vindo(a) ao meu perfil!
 
 
-My name is Karina, and I am originally from Mato Grosso. I am studying Software Engineering at Wyden.
+Meu nome é Karina e sou natural do Mato Grosso. Estou cursando Engenharia de Software na Cruzeiro do Sul, sou **Técnica de Informática** com sólida vivência em infraestrutura e suporte, atualmente em transição estratégica de carreira para o **Desenvolvimento Full Stack**. 
+
+A minha bagagem técnica em sistemas, redes e resolução de problemas me dá uma visão ampla de como as aplicações funcionam de ponta a ponta — da infraestrutura ao código. Hoje, direciono essa experiência para criar soluções web modernas, eficientes e centradas no usuário.
+
+---
+
+## 🚀 Minha Stack Tecnológica
+
+* **Front-End:** JavaScript, React, HTML5, CSS3
+* **Back-End:** Node.js, Express
+* **Banco de Dados:** MySQL
+* **Versionamento e Ferramentas:** Git, GitHub
+* **Base Técnica:** Redes, Sistemas Operacionais (Windows/Linux) e Suporte Técnico
+
+---
+
+## 🎯 Foco e Interesses de Desenvolvimento
+
+* Construção de aplicações web dinâmicas e responsivas.
+* Desenvolvimento e integração de APIs (Back-End).
+* Aplicação de boas práticas de Engenharia de Software, código limpo e arquitetura eficiente.
+
+---
+
 
  <div align="center"> <img src="https://private-user-images.githubusercontent.com/186871556/415311849-df2eb32b-d28e-4bc1-abf5-0c99cdbb437a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAxNDUyMzgsIm5iZiI6MTc3MDE0NDkzOCwicGF0aCI6Ii8xODY4NzE1NTYvNDE1MzExODQ5LWRmMmViMzJiLWQyOGUtNGJjMS1hYmY1LTBjOTljZGJiNDM3YS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwM1QxODU1MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDc5OTI5N2Q4MWRhYThkZTliNmYzMmQxMzEwMWZhNzU1NjhiY2E2MGQxOWMwNDU1ZGI2ODYxZDA1OGVhM2I0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KxumCn-Po0h614MHh7x47eRf17W9RVyhwon9CaOsu9w" width="400px">
 
