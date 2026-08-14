@@ -1,4 +1,5 @@
 Hello, there! 👋 Welcome to my profile!
+
 My name is Karina and I am based in Mato Grosso, Brazil. I am currently pursuing a degree in Software Engineering at Cruzeiro do Sul University. With a solid background as an IT Technician in infrastructure and support, I am currently making a strategic career transition into Full Stack Development.
 
 My technical experience in systems, networking, and troubleshooting gives me a comprehensive view of how applications work from end to end—from infrastructure to code. I am now applying this expertise to build modern, efficient, and user-centric web solutions.
