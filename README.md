@@ -1,29 +1,25 @@
+Hello, there! 👋 Welcome to my profile!
+My name is Karina and I am based in Mato Grosso, Brazil. I am currently pursuing a degree in Software Engineering at Cruzeiro do Sul University. With a solid background as an IT Technician in infrastructure and support, I am currently making a strategic career transition into Full Stack Development.
 
+My technical experience in systems, networking, and troubleshooting gives me a comprehensive view of how applications work from end to end—from infrastructure to code. I am now applying this expertise to build modern, efficient, and user-centric web solutions.
 
-# Olá, visitante! 👋 Seja muito bem-vindo(a) ao meu perfil!
+🚀 Technical Stack
+Front-End: JavaScript, React, HTML5, CSS3
 
+Back-End: Node.js, Express
 
-Meu nome é Karina e sou natural do Mato Grosso. Estou cursando Engenharia de Software na Cruzeiro do Sul, sou **Técnica de Informática** com sólida vivência em infraestrutura e suporte, atualmente em transição estratégica de carreira para o **Desenvolvimento Full Stack**. 
+Databases: MySQL
 
-A minha bagagem técnica em sistemas, redes e resolução de problemas me dá uma visão ampla de como as aplicações funcionam de ponta a ponta — da infraestrutura ao código. Hoje, direciono essa experiência para criar soluções web modernas, eficientes e centradas no usuário.
+Version Control & Tools: Git, GitHub
 
----
+Technical Foundation: Networking, Operating Systems (Windows/Linux), and Technical Support
 
-## 🚀 Minha Stack Tecnológica
+🎯 Focus and Interests
+Building dynamic and responsive web applications.
 
-* **Front-End:** JavaScript, React, HTML5, CSS3
-* **Back-End:** Node.js, Express
-* **Banco de Dados:** MySQL
-* **Versionamento e Ferramentas:** Git, GitHub
-* **Base Técnica:** Redes, Sistemas Operacionais (Windows/Linux) e Suporte Técnico
+Developing and integrating APIs (Back-End).
 
----
-
-## 🎯 Foco e Interesses de Desenvolvimento
-
-* Construção de aplicações web dinâmicas e responsivas.
-* Desenvolvimento e integração de APIs (Back-End).
-* Aplicação de boas práticas de Engenharia de Software, código limpo e arquitetura eficiente.
+Applying software engineering best practices, clean code, and efficient architecture.
 
 ---
 
