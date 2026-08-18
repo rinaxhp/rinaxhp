@@ -42,13 +42,41 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
   
 
 ### 🤖 Linguagem, Ferramentas e Sistema Operacional
-<div style="disokay: inline_block"><br>
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d979d94e-da35-4195-82bd-581a29d9a5db" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2e2350ba-36a2-48ec-949e-521c695280b9" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2c247367-22fb-47e6-945f-ee68fef3fc72" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7b926672-5b26-4673-a2eb-5f2d233b1813" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2bd83a8c-9fdf-4d05-a7a6-4c36d5eed4d6" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/41c9aaf1-208c-4837-b74a-3470176bede5" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/628a46f6-b6ee-42c4-a0d6-243baf2a3c31" />
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5774a565-be03-401d-8ff0-4e8a10bb40e4" />
+
+### 💻 Desenvolvimento Full Stack
+<div style="display: inline-block;">
+  <!-- JavaScript -->
+  <img width="40" height="40" alt="JavaScript" src="https://github.com" />
+  <!-- React -->
+  <img width="40" height="40" alt="React" src="https://github.com" />
+  <!-- HTML5 -->
+  <img width="40" height="40" alt="HTML5" src="https://github.com" />
+  <!-- CSS3 -->
+  <img width="40" height="40" alt="CSS3" src="https://github.com" />
+  <!-- Node.js -->
+  <img width="40" height="40" alt="Node.js" src="https://github.com" />
+  <!-- MySQL -->
+  <img width="40" height="40" alt="MySQL" src="https://github.com" />
+  <!-- Git -->
+  <img width="40" height="40" alt="Git" src="https://github.com" />
+  <!-- GitHub -->
+  <img width="40" height="40" alt="GitHub" src="https://github.com" />
+</div>
+
+### 🛠️ Suporte Técnico & Infraestrutura
+<div style="display: inline-block;">
+  <!-- Windows -->
+  <img width="40" height="40" alt="Windows" src="https://jsdelivr.net" />
+  <!-- Linux -->
+  <img width="40" height="40" alt="Linux" src="https://jsdelivr.net" />
+  <!-- AWS (Nuvem que você está estudando) -->
+  <img width="40" height="40" alt="AWS" src="https://jsdelivr.net" />
+  <!-- Azure (Nuvem que você está estudando) -->
+  <img width="40" height="40" alt="Azure" src="https://jsdelivr.net" />
+</div>
+
+<br>
+
+### 🎯 Certificações em Progresso
+* **Gerenciamento de Serviços de TI:** ![ITIL](https://shields.io)
 
