@@ -1,6 +1,6 @@
 Olá! 👋 Bem-vindo(a) ao meu perfil!
 
-Meu nome é Karina e moro em Mato Grosso, Brasil. Atualmente, estou cursando Engenharia de Software na Universidade Cruzeiro do Sul (2º Semestre).
+Meu nome é Karina e moro em Mato Grosso, Brasil. Atualmente, estou cursando Engenharia de Software na Universidade Cruzeiro do Sul.
 
 Com uma bagagem sólida como Técnica de Informática, estou unindo o conhecimento de infraestrutura ao Desenvolvimento Full Stack. Minha experiência prática em sistemas, redes e resolução de problemas (troubleshooting) me dá uma visão completa de ponta a ponta sobre como as aplicações funcionam — desde o sistema operacional até o código-fonte.
 
