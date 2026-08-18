@@ -46,22 +46,21 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 ### 💻 Desenvolvimento Full Stack
 <div style="display: inline-block;">
   <!-- JavaScript -->
-  <img width="40" height="40" alt="JavaScript" src="https://githubusercontent.com](https://icons8.com.br/icon/108784/javascript" />
+  <img width="40" height="40" alt="JavaScript" src="https://icons8.com.br/icon/108784/javascript" />
   <!-- React -->
-  <img width="40" height="40" alt="React" src="https://githubusercontent.com](https://icons8.com.br/icon/122637/react" />
+  <img width="40" height="40" alt="React" src="https://icons8.com.br/icon/122637/react" />
   <!-- HTML5 -->
-  <img width="40" height="40" alt="HTML5" src="https://githubusercontent.com](https://icons8.com.br/icon/20909/html-5" />
+  <img width="40" height="40" alt="HTML5" src="https://icons8.com.br/icon/20909/html-5" />
   <!-- CSS3 -->
   <img width="40" height="40" alt="CSS3" src="https://icons8.com.br/icon/21278/css3" />
-" />
   <!-- Node.js -->
-  <img width="40" height="40" alt="Node.js" src="https://githubusercontent.com](https://icons8.com.br/icon/hsPbhkOH4FMe/node-js" />
+  <img width="40" height="40" alt="Node.js" src="https://icons8.com.br/icon/hsPbhkOH4FMe/node-js" />
   <!-- MySQL -->
-  <img width="40" height="40" alt="MySQL" src="https://githubusercontent.com](https://icons8.com.br/icon/UFXRpPFebwa2/mysql-logo" />
+  <img width="40" height="40" alt="MySQL" src="https://icons8.com.br/icon/UFXRpPFebwa2/mysql-logo" />
   <!-- Git -->
-  <img width="40" height="40" alt="Git" src="https://githubusercontent.com](https://icons8.com.br/icon/20906/git" />
+  <img width="40" height="40" alt="Git" src="https://icons8.com.br/icon/20906/git" />
   <!-- GitHub -->
-  <img width="40" height="40" alt="GitHub" src="https://githubusercontent.com](https://icons8.com.br/icon/62856/github" />
+  <img width="40" height="40" alt="GitHub" src="https://icons8.com.br/icon/62856/github" />
 </div> 
 
 <br>
@@ -69,13 +68,13 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 ### 🛠️ Suporte Técnico & Infraestrutura
 <div style="display: inline-block;">
   <!-- Windows -->
-  <img width="40" height="40" alt="Windows" src="https://githubusercontent.com](https://icons8.com.br/icon/17854/windows-xp" />
+  <img width="40" height="40" alt="Windows" src="https://icons8.com.br/icon/17854/windows-xp" />
   <!-- Linux -->
-  <img width="40" height="40" alt="Linux" src="https://githubusercontent.com](https://icons8.com.br/icon/tmEqIUErLJVM/linux" />
+  <img width="40" height="40" alt="Linux" src="https://icons8.com.br/icon/tmEqIUErLJVM/linux" />
   <!-- AWS -->
-  <img width="40" height="40" alt="AWS" src="https://githubusercontent.com](https://icons8.com.br/icon/33039/amazon-web-services" />
+  <img width="40" height="40" alt="AWS" src="https://icons8.com.br/icon/33039/amazon-web-services" />
   <!-- Azure -->
-  <img width="40" height="40" alt="Azure" src="https://githubusercontent.com](https://icons8.com.br/icon/VLKafOkk3sBX/azure" />
+  <img width="40" height="40" alt="Azure" src="https://icons8.com.br/icon/VLKafOkk3sBX/azure" />
  
 </div>
 
@@ -83,4 +82,9 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 
 ### 🎯 Certificações em Progresso
 * **Gerenciamento de Serviços de TI:** ![ITIL](https://shields.io)
+
+<br>
+<br>
+
+![49cdd838e8c6d7fe5e2dd55deead5567](https://github.com/user-attachments/assets/cc2ef335-8ecb-4510-8962-adc03ac2821b)
 
