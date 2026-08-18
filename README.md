@@ -46,32 +46,37 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 ### 💻 Desenvolvimento Full Stack
 <div style="display: inline-block;">
   <!-- JavaScript -->
-  <img width="40" height="40" alt="JavaScript" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="JavaScript" src="https://githubusercontent.com](https://icons8.com.br/icon/108784/javascript" />
   <!-- React -->
-  <img width="40" height="40" alt="React" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="React" src="https://githubusercontent.com](https://icons8.com.br/icon/122637/react" />
   <!-- HTML5 -->
-  <img width="40" height="40" alt="HTML5" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="HTML5" src="https://githubusercontent.com](https://icons8.com.br/icon/20909/html-5" />
   <!-- CSS3 -->
-  <img width="40" height="40" alt="CSS3" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="CSS3" src="https://icons8.com.br/icon/21278/css3" />
+" />
   <!-- Node.js -->
-  <img width="40" height="40" alt="Node.js" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="Node.js" src="https://githubusercontent.com](https://icons8.com.br/icon/hsPbhkOH4FMe/node-js" />
   <!-- MySQL -->
-  <img width="40" height="40" alt="MySQL" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="MySQL" src="https://githubusercontent.com](https://icons8.com.br/icon/UFXRpPFebwa2/mysql-logo" />
   <!-- Git -->
-  <img width="40" height="40" alt="Git" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="Git" src="https://githubusercontent.com](https://icons8.com.br/icon/20906/git" />
   <!-- GitHub -->
-  <img width="40" height="40" alt="GitHub" src="https://githubusercontent.com" />
-</div>
+  <img width="40" height="40" alt="GitHub" src="https://githubusercontent.com](https://icons8.com.br/icon/62856/github" />
+</div> 
+
+<br>
+
 ### 🛠️ Suporte Técnico & Infraestrutura
 <div style="display: inline-block;">
   <!-- Windows -->
-  <img width="40" height="40" alt="Windows" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="Windows" src="https://githubusercontent.com](https://icons8.com.br/icon/17854/windows-xp" />
   <!-- Linux -->
-  <img width="40" height="40" alt="Linux" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="Linux" src="https://githubusercontent.com](https://icons8.com.br/icon/tmEqIUErLJVM/linux" />
   <!-- AWS -->
-  <img width="40" height="40" alt="AWS" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="AWS" src="https://githubusercontent.com](https://icons8.com.br/icon/33039/amazon-web-services" />
   <!-- Azure -->
-  <img width="40" height="40" alt="Azure" src="https://githubusercontent.com" />
+  <img width="40" height="40" alt="Azure" src="https://githubusercontent.com](https://icons8.com.br/icon/VLKafOkk3sBX/azure" />
+ 
 </div>
 
 <br>
