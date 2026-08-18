@@ -1,26 +1,37 @@
-Hello, there! 👋 Welcome to my profile!
+Olá! 👋 Bem-vindo(a) ao meu perfil!
 
-My name is Karina and I am based in Mato Grosso, Brazil. I am currently pursuing a degree in Software Engineering at Cruzeiro do Sul University. With a solid background as an IT Technician in infrastructure and support, I am currently making a strategic career transition into Full Stack Development.
+Meu nome é Karina e moro em Mato Grosso, Brasil. Atualmente, estou cursando Engenharia de Software na Universidade Cruzeiro do Sul (2º Semestre).
 
-My technical experience in systems, networking, and troubleshooting gives me a comprehensive view of how applications work from end to end—from infrastructure to code. I am now applying this expertise to build modern, efficient, and user-centric web solutions.
+Com uma bagagem sólida como Técnica de Informática, estou unindo o conhecimento de infraestrutura ao Desenvolvimento Full Stack. Minha experiência prática em sistemas, redes e resolução de problemas (troubleshooting) me dá uma visão completa de ponta a ponta sobre como as aplicações funcionam — desde o sistema operacional até o código-fonte.
 
-🚀 Technical Stack
-Front-End: JavaScript, React, HTML5, CSS3
+Meu objetivo é focar em posições internacionais de alto nível que combinem desenvolvimento e suporte técnico avançado, como Engenheira de Suporte de Aplicações (Application Support Engineer), Engenheira de Suporte Técnico N3 ou Desenvolvedora Full Stack.
 
-Back-End: Node.js, Express
+---
 
-Databases: MySQL
+🚀 Stack Técnica
 
-Version Control & Tools: Git, GitHub
+• Front-End: JavaScript (ES6+), React, HTML5, CSS3
+• Back-End: Node.js, Express
+• Bancos de Dados: MySQL, Consultas SQL e Resolução de Problemas
+• Controle de Versão e Ferramentas: Git, GitHub
+• Base Técnica: Redes Avançadas, Sistemas Operacionais (Windows/Linux) e Infraestrutura de TI
 
-Technical Foundation: Networking, Operating Systems (Windows/Linux), and Technical Support
+---
 
-🎯 Focus and Interests
-Building dynamic and responsive web applications.
+🎯 Foco Atual e Trilhas de Aprendizado
 
-Developing and integrating APIs (Back-End).
+Estou estudando ativamente em duas frentes para dominar aplicações web modernas e, ao mesmo tempo, certificar minhas habilidades de suporte avançado para ambientes globais.
 
-Applying software engineering best practices, clean code, and efficient architecture.
+### 💻 Desenvolvimento Full Stack
+*   Construção de aplicações web dinâmicas e integração de APIs RESTful.
+*   Aplicação de melhores práticas de engenharia de software, código limpo e arquitetura de banco de dados eficiente.
+
+### ☁️ Suporte Avançado e Infraestrutura em Nuvem (Certificações Alvo)
+*   `[Estudando]` **AWS Certified Cloud Practitioner** / **Microsoft Azure AZ-900** (Infraestrutura em Nuvem)
+*   `[Estudando]` **ITIL 4 Foundation** (Gerenciamento de Serviços de TI e Padrões Globais de Suporte Corporativo)
+
+---
+
 
 ---
 
