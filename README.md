@@ -46,33 +46,32 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 ### 💻 Desenvolvimento Full Stack
 <div style="display: inline-block;">
   <!-- JavaScript -->
-  <img width="40" height="40" alt="JavaScript" src="https://github.com" />
+  <img width="40" height="40" alt="JavaScript" src="https://githubusercontent.com" />
   <!-- React -->
-  <img width="40" height="40" alt="React" src="https://github.com" />
+  <img width="40" height="40" alt="React" src="https://githubusercontent.com" />
   <!-- HTML5 -->
-  <img width="40" height="40" alt="HTML5" src="https://github.com" />
+  <img width="40" height="40" alt="HTML5" src="https://githubusercontent.com" />
   <!-- CSS3 -->
-  <img width="40" height="40" alt="CSS3" src="https://github.com" />
+  <img width="40" height="40" alt="CSS3" src="https://githubusercontent.com" />
   <!-- Node.js -->
-  <img width="40" height="40" alt="Node.js" src="https://github.com" />
+  <img width="40" height="40" alt="Node.js" src="https://githubusercontent.com" />
   <!-- MySQL -->
-  <img width="40" height="40" alt="MySQL" src="https://github.com" />
+  <img width="40" height="40" alt="MySQL" src="https://githubusercontent.com" />
   <!-- Git -->
-  <img width="40" height="40" alt="Git" src="https://github.com" />
+  <img width="40" height="40" alt="Git" src="https://githubusercontent.com" />
   <!-- GitHub -->
-  <img width="40" height="40" alt="GitHub" src="https://github.com" />
+  <img width="40" height="40" alt="GitHub" src="https://githubusercontent.com" />
 </div>
-
 ### 🛠️ Suporte Técnico & Infraestrutura
 <div style="display: inline-block;">
   <!-- Windows -->
-  <img width="40" height="40" alt="Windows" src="https://jsdelivr.net" />
+  <img width="40" height="40" alt="Windows" src="https://githubusercontent.com" />
   <!-- Linux -->
-  <img width="40" height="40" alt="Linux" src="https://jsdelivr.net" />
-  <!-- AWS (Nuvem que você está estudando) -->
-  <img width="40" height="40" alt="AWS" src="https://jsdelivr.net" />
-  <!-- Azure (Nuvem que você está estudando) -->
-  <img width="40" height="40" alt="Azure" src="https://jsdelivr.net" />
+  <img width="40" height="40" alt="Linux" src="https://githubusercontent.com" />
+  <!-- AWS -->
+  <img width="40" height="40" alt="AWS" src="https://githubusercontent.com" />
+  <!-- Azure -->
+  <img width="40" height="40" alt="Azure" src="https://githubusercontent.com" />
 </div>
 
 <br>
