@@ -32,35 +32,26 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 
 ---
 
-
----
-
-
- <div align="center"> <img src="https://private-user-images.githubusercontent.com/186871556/415311849-df2eb32b-d28e-4bc1-abf5-0c99cdbb437a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAxNDUyMzgsIm5iZiI6MTc3MDE0NDkzOCwicGF0aCI6Ii8xODY4NzE1NTYvNDE1MzExODQ5LWRmMmViMzJiLWQyOGUtNGJjMS1hYmY1LTBjOTljZGJiNDM3YS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwM1QxODU1MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDc5OTI5N2Q4MWRhYThkZTliNmYzMmQxMzEwMWZhNzU1NjhiY2E2MGQxOWMwNDU1ZGI2ODYxZDA1OGVhM2I0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KxumCn-Po0h614MHh7x47eRf17W9RVyhwon9CaOsu9w" width="400px">
-
-
-  
-
 ### 🤖 Linguagem, Ferramentas e Sistema Operacional
 
 ### 💻 Desenvolvimento Full Stack
 <div style="display: inline-block;">
   <!-- JavaScript -->
-  <img width="40" height="40" alt="JavaScript" src="https://icons8.com.br/icon/108784/javascript" />
+  <img width="40" height="40" alt="JavaScript" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
   <!-- React -->
-  <img width="40" height="40" alt="React" src="https://icons8.com.br/icon/122637/react" />
+  <img width="40" height="40" alt="React" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" />
   <!-- HTML5 -->
-  <img width="40" height="40" alt="HTML5" src="https://icons8.com.br/icon/20909/html-5" />
+  <img width="40" height="40" alt="HTML5" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
   <!-- CSS3 -->
-  <img width="40" height="40" alt="CSS3" src="https://icons8.com.br/icon/21278/css3" />
+  <img width="40" height="40" alt="CSS3" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
   <!-- Node.js -->
-  <img width="40" height="40" alt="Node.js" src="https://icons8.com.br/icon/hsPbhkOH4FMe/node-js" />
+  <img width="40" height="40" alt="Node.js" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" />
   <!-- MySQL -->
-  <img width="40" height="40" alt="MySQL" src="https://icons8.com.br/icon/UFXRpPFebwa2/mysql-logo" />
+  <img width="40" height="40" alt="MySQL" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
   <!-- Git -->
-  <img width="40" height="40" alt="Git" src="https://icons8.com.br/icon/20906/git" />
+  <img width="40" height="40" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
   <!-- GitHub -->
-  <img width="40" height="40" alt="GitHub" src="https://icons8.com.br/icon/62856/github" />
+  <img width="40" height="40" alt="GitHub" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" />
 </div> 
 
 <br>
@@ -68,13 +59,13 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
 ### 🛠️ Suporte Técnico & Infraestrutura
 <div style="display: inline-block;">
   <!-- Windows -->
-  <img width="40" height="40" alt="Windows" src="https://icons8.com.br/icon/17854/windows-xp" />
+  <img width="40" height="40" alt="Windows" src="https://img.icons8.com/?size=100&id=17854&format=png&color=000000" />
   <!-- Linux -->
-  <img width="40" height="40" alt="Linux" src="https://icons8.com.br/icon/tmEqIUErLJVM/linux" />
+  <img width="40" height="40" alt="Linux" src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" />
   <!-- AWS -->
-  <img width="40" height="40" alt="AWS" src="https://icons8.com.br/icon/33039/amazon-web-services" />
+  <img width="40" height="40" alt="AWS" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
   <!-- Azure -->
-  <img width="40" height="40" alt="Azure" src="https://icons8.com.br/icon/VLKafOkk3sBX/azure" />
+  <img width="40" height="40" alt="Azure" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
  
 </div>
 
