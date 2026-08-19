@@ -4,18 +4,6 @@ Meu nome é Karina e moro em Mato Grosso, Brasil. Atualmente, estou cursando Eng
 
 Atuo há um ano na área de técnico da informática, onde desenvolvo diariamente a capacidade de resolver problemas complexos, diagnosticar falhas de sistemas e redes, e otimizar processos de infraestrutura. Estou unindo essa bagagem sólida em TI com o desenvolvimento de aplicações Full Stack para entregar soluções que vão desde a infraestrutura até a interface do usuário.
 
-Meu objetivo é atuar em posições de alto nível, como Application Support Engineer ou Desenvolvedora Full Stack, onde minha visão sistêmica de "ponta a ponta" possa ser aplicada em ambientes corporativos globais.
-
----
-
-🚀 Stack Técnica
-
-• Front-End: JavaScript (ES6+), React, HTML5, CSS3
-• Back-End: Node.js, Express
-• Bancos de Dados: MySQL, Consultas SQL e Resolução de Problemas
-• Controle de Versão e Ferramentas: Git, GitHub
-• Base Técnica: Redes Avançadas, Sistemas Operacionais (Windows/Linux) e Infraestrutura de TI
-
 ---
 
 🎯 Foco Atual e Trilhas de Aprendizado
@@ -26,7 +14,6 @@ Meu objetivo é atuar em posições de alto nível, como Application Support Eng
 
 ---
   
-
 ### 🤖 Linguagem, Ferramentas e Sistema Operacional
 
 ### 💻 Desenvolvimento Full Stack
