@@ -2,9 +2,9 @@ Olá! 👋 Bem-vindo(a) ao meu perfil!
 
 Meu nome é Karina e moro em Mato Grosso, Brasil. Atualmente, estou cursando Engenharia de Software na Universidade Cruzeiro do Sul.
 
-Com uma bagagem sólida como Técnica de Informática, estou unindo o conhecimento de infraestrutura ao Desenvolvimento Full Stack. Minha experiência prática em sistemas, redes e resolução de problemas (troubleshooting) me dá uma visão completa de ponta a ponta sobre como as aplicações funcionam — desde o sistema operacional até o código-fonte.
+Atuo há um ano na área de técnico da informática, onde desenvolvo diariamente a capacidade de resolver problemas complexos, diagnosticar falhas de sistemas e redes, e otimizar processos de infraestrutura. Estou unindo essa bagagem sólida em TI com o desenvolvimento de aplicações Full Stack para entregar soluções que vão desde a infraestrutura até a interface do usuário.
 
-Meu objetivo é focar em posições internacionais de alto nível que combinem desenvolvimento e suporte técnico avançado, como Engenheira de Suporte de Aplicações (Application Support Engineer), Engenheira de Suporte Técnico N3 ou Desenvolvedora Full Stack.
+Meu objetivo é atuar em posições de alto nível, como Application Support Engineer ou Desenvolvedora Full Stack, onde minha visão sistêmica de "ponta a ponta" possa ser aplicada em ambientes corporativos globais.
 
 ---
 
@@ -20,15 +20,9 @@ Meu objetivo é focar em posições internacionais de alto nível que combinem d
 
 🎯 Foco Atual e Trilhas de Aprendizado
 
-Estou estudando ativamente em duas frentes para dominar aplicações web modernas e, ao mesmo tempo, certificar minhas habilidades de suporte avançado para ambientes globais.
-
 ### 💻 Desenvolvimento Full Stack
 *   Construção de aplicações web dinâmicas e integração de APIs RESTful.
 *   Aplicação de melhores práticas de engenharia de software, código limpo e arquitetura de banco de dados eficiente.
-
-### ☁️ Suporte Avançado e Infraestrutura em Nuvem (Certificações Alvo)
-*   `[Estudando]` **AWS Certified Cloud Practitioner** / **Microsoft Azure AZ-900** (Infraestrutura em Nuvem)
-*   `[Estudando]` **ITIL 4 Foundation** (Gerenciamento de Serviços de TI e Padrões Globais de Suporte Corporativo)
 
 ---
   
@@ -53,27 +47,21 @@ Estou estudando ativamente em duas frentes para dominar aplicações web moderna
   <img width="40" height="40" alt="Git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
   <!-- GitHub -->
   <img width="40" height="40" alt="GitHub" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" />
+    <!-- Windows -->
+  <img width="40" height="40" alt="Windows" src="https://img.icons8.com/?size=100&id=17854&format=png&color=000000" />
+  <!-- Linux -->
+  <img width="40" height="40" alt="Linux" src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" />
 </div> 
 
 <br>
 
-### 🛠️ Suporte Técnico & Infraestrutura
-<div style="display: inline-block;">
-  <!-- Windows -->
-  <img width="40" height="40" alt="Windows" src="https://img.icons8.com/?size=100&id=17854&format=png&color=000000" />
-  <!-- Linux -->
-  <img width="40" height="40" alt="Linux" src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" />
-  <!-- AWS -->
-  <img width="40" height="40" alt="AWS" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" />
-  <!-- Azure -->
-  <img width="40" height="40" alt="Azure" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" />
- 
-</div>
+---
 
-<br>
+### 📜 Certificações e Conquistas
 
-### 🎯 Certificações em Progresso
-* **Gerenciamento de Serviços de TI:** ![ITIL](https://shields.io)
+• **Redes de Computadores** - Udemy  (https://www.udemy.com/certificate/UC-d9f16dd1-e167-4d8f-869b-c012f376da03/)
+
+
 
 <br>
 <br>
