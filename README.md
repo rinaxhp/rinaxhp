@@ -1,22 +1,24 @@
-# Olá! Eu sou a Karina 👋
+Karina Proença 
 
-Atualmente estou cursando **Engenharia de Software** na Universidade Cruzeiro do Sul e resido em Mato Grosso, Brasil. Sou apaixonada por tecnologia e busco constantemente aplicar as melhores práticas de engenharia para criar soluções eficientes e seguras.
+Técnica em Informática · Estudante de Engenharia de Software · Desenvolvedora em formação
+
+Construo projetos práticos de sistemas, páginas e exercícios de lógica enquanto avanço na graduação na Universidade Cruzeiro do Sul e na minha rotina com tecnologia.
+
+No meu portfólio, trabalho principalmente com **JavaScript**, **Node.js**, **MySQL**, **C** e **Python**, além de **HTML/CSS** e **Git/GitHub** para organizar e versionar o código. Gosto de transformar ideias e exercícios de faculdade em projetos funcionais, usando IA como apoio para estudar, testar hipóteses e destravar dúvidas. Meu foco é evoluir com consistência no desenvolvimento e em soluções de TI, com atenção à clareza e ao funcionamento real das coisas.
 
 ---
   
-### 🤖 Linguagem, Ferramentas e Sistema Operacional
+### 🤖 Tecnologias e ferramentas
 
 - **Front-End:** HTML5, CSS3, JavaScript, TypeScript, React.js
-- **Back-End & Bancos de Dados:** Node.js, C# (.NET), PostgreSQL, MySQL, MongoDB
-- **Infraestrutura & Ferramentas:** Git & GitHub, Docker, Linux, Windows
+- **Back-End & Bancos de Dados:** Node.js, C# (.NET), MySQL, Dbeaver
+- **Inteligência artificial:** Claude e Gemini prototipação e revisão
+- **Infraestrutura & Ferramentas:** Git & GitHub, Docker, PowerShell, Vscode
 - **Foco Técnico:** APIs RESTful, Código Limpo (Clean Code), Arquitetura de Software e Modelagem de Dados
   
 
 ---
 
-### 📜 Certificações e Conquistas
-
-• **Redes de Computadores** - Udemy  (https://www.udemy.com/certificate/UC-d9f16dd1-e167-4d8f-869b-c012f376da03/)
 
 
 <br>
